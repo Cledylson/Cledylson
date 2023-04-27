@@ -17,4 +17,3 @@
   <a href="https://www.linkedin.com/in/cledylson-takamori-75780241/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://cledylson.github.io/HTML/"><img src="https://img.shields.io/badge/-Portifolio-brightgreen target="blank"></a>
 </div>
-https://img.shields.io/badge/-brightgreen-brightgreen
