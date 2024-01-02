@@ -1,7 +1,7 @@
 # Bem vindo ao meu Perfil!👽 👾 🤖
  - Olá meu nome é Augusto Takamori
  - Desenvolvedor  💻 
- - Python | Ruby | JavaScript | BIG DATA
+ - Python | BIG DATA
 
  <div>
   <a href="https://github.com/Cledylson">
